@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_ba"
+        text="@string/meme" />
+
+    <tab
+        drawable="@drawable/ic_ba"
+        text="@string/dankMeme" />
+
+</tabs>
